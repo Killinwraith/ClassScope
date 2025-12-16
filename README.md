@@ -1,4 +1,6 @@
-# Personal Multi-Class Neural Study System
+# ClassScope — A Class-Aware RAG Study System
+
+### A Personal Multi-Class Neural Study System
 
 A **class-aware, Retrieval-Augmented Generation (RAG) study platform** that allows students to upload lecture materials per course and study using an AI assistant that is **strictly grounded in their own notes**.
 
